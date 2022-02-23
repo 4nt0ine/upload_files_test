@@ -1,0 +1,12 @@
+#imgPreview {
+    width: 400px;
+    height: 400px;
+    display: block;
+}
+.container {
+    background-color: rgb(223, 223, 223);
+    padding: 20px;
+}
+form {
+    width: 100px;
+}
